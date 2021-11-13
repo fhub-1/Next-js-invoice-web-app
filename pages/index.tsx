@@ -1,6 +1,6 @@
 const IndexPage = () => {
   return (
-    <div>
+    <div className="">
       <h1>hello</h1>
     </div>
   );
